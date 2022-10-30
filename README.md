@@ -1,16 +1,9 @@
 # astrology_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/111416514/198863172-b0e6766e-d648-4d80-8cad-fbbd2b187459.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-10-30 at 10 19 16 AM](https://user-images.githubusercontent.com/111416514/198863234-54e2d8d0-1432-465c-8fe6-ccbb2dbf02f4.jpeg)
+![WhatsApp Image 2022-10-30 at 10 19 14 AM](https://user-images.githubusercontent.com/111416514/198863235-4d01c2c3-fd5f-4e4c-aa32-e1f81f4019cc.jpeg)
